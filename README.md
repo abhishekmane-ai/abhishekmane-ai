@@ -3,7 +3,7 @@
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,aws,azure,postgresql" alt="Tech Stack" height="40" />
 </p>
 <p align="center">
-  <b>AI Engineer @ CognitBotz | NLP & Deep Learning Enthusiast | Advocate for Ethical, Real-World AI Solutions</b>
+  <b>AI Engineer @ CognitBotz | NLP & Deep Learning Enthusiast | Real-World AI Solutions</b>
 </p>
 
 ---
